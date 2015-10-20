@@ -1,10 +1,18 @@
 [
     {
         "author": "Pete Hunt",
-        "text": "Hey there!"
+        "text": "Hey there!!!"
     },
     {
         "author": "Paul O’Shannessy",
         "text": "React is *great*!"
+    },
+    {
+        "author": "terut",
+        "text": "What's the hell."
+    },
+    {
+        "author": "terut",
+        "text": "What's the excellent"
     }
 ]
